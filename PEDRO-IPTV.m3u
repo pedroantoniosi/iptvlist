@@ -58,9 +58,9 @@ group-title="Entretenimento",Todo Mundo Odeia o Chris 24
 https://xn--d204s777hp28.cloudfronte.lat/zzzstream/24h_odeiachris.m3u8
 
 #EXTINF:-1 tvg-id="adultswim" 
-tvg-name="AdultSwin" 
+tvg-name="Adult Swin" 
 tvg-logo="https://via.placeholder.com/150" 
-group-title="Entretenimento",AdultSwin
+group-title="Entretenimento",Adult Swin
 https://xn--d204s777hp28.cloudfronte.lat/zzzstream/adultswim.m3u8
 
 
@@ -179,7 +179,7 @@ https://xn--d204s777hp27.cloudfronte.lat/zzzstream/record.m3u8
 #EXTINF:-1 tvg-id="tvcultura" 
 tvg-name="TV Cultura" 
 tvg-logo="https://via.placeholder.com/150" 
-group-title="TV Aberta",tvcultura
+group-title="TV Aberta",TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 ##########################
@@ -264,6 +264,4 @@ tvg-name="RS Sports"
 tvg-logo="https://via.placeholder.com/150" 
 group-title="Esportes",RS Sports
 https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
-
-
 
