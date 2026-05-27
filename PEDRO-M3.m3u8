@@ -1,0 +1,73 @@
+#EXTM3U x-tvg-url="https://example.com/epg.xml"
+
+##########################
+# ENTRETENIMENTO
+##########################
+
+#EXTINF:-1 tvg-id="discoveryhh" tvg-name="Discovery Home & Health" tvg-logo="https://via.placeholder.com/150" group-title="Entretenimento",Discovery Home & Health
+https://origin-fast.b-cdn.net/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="https://via.placeholder.com/150" group-title="Entretenimento",Discovery Turbo
+https://origin-fast.b-cdn.net/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="Discovery Investigação" tvg-logo="https://via.placeholder.com/150" group-title="Entretenimento",Discovery Investigação
+https://origin-fast.b-cdn.net/DISCOVERY_ID/index.m3u8
+
+
+##########################
+# TV ABERTA
+##########################
+
+#EXTINF:-1 tvg-id="globorj" tvg-name="GLOBO RJ" tvg-logo="https://via.placeholder.com/150" group-title="TV Aberta",GLOBO RJ
+https://origin-fast.b-cdn.net/GLOBO_RJ/index.m3u8
+
+#EXTINF:-1 tvg-id="bandrj" tvg-name="BAND RJ" tvg-logo="https://via.placeholder.com/150" group-title="TV Aberta",BAND RJ
+https://origin-fast.b-cdn.net/BAND_RJ/index.m3u8
+
+#EXTINF:-1 tvg-id="bandnews" tvg-name="BAND NEWS" tvg-logo="https://via.placeholder.com/150" group-title="TV Aberta",BAND NEWS
+https://origin-fast.b-cdn.net/BAND_NEWS/index.m3u8
+
+
+##########################
+# DESENHOS
+##########################
+
+#EXTINF:-1 tvg-id="animetv" tvg-name="Anime TV" tvg-logo="https://via.placeholder.com/150" group-title="Desenhos",Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="otakutv" tvg-name="Otaku TV" tvg-logo="https://via.placeholder.com/150" group-title="Desenhos",Otaku TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+
+##########################
+# MUSICA
+##########################
+
+#EXTINF:-1 tvg-id="m20tv" tvg-name="M20 TV" tvg-logo="https://via.placeholder.com/150" group-title="Musica",M20 TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+
+##########################
+# ESPORTES
+##########################
+
+#EXTINF:-1 tvg-id="racertv" tvg-name="Racer TV" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",Racer TV
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rssports" tvg-name="RS Sports" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",RS Sports
+https://video07.logicahost.com.br/rssports01/rssports01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espn1" tvg-name="ESPN 1" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",ESPN 1
+https://origin-fast.b-cdn.net/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",ESPN 2
+https://origin-fast.b-cdn.net/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",ESPN 3
+https://origin-fast.b-cdn.net/ESPN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",ESPN 4
+https://origin-fast.b-cdn.net/ESPN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="bandsports" tvg-name="BANDSPORTS" tvg-logo="https://via.placeholder.com/150" group-title="Esportes",BANDSPORTS
+https://origin-fast.b-cdn.net/BAND_SPORTS/index.m3u8
